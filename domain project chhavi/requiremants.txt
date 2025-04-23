@@ -1,0 +1,6 @@
+openai
+langchain
+faiss-cpu  # or faiss-gpu
+pypdf
+streamlit
+python-dotenv
